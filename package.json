@@ -1,0 +1,15 @@
+{
+  "name": "web_development_node_js_express",
+  "version": "1.0.0",
+  "description": "travel website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6"
+  }
+}
